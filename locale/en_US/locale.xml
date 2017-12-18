@@ -13,6 +13,7 @@
 
 <locale name="en_US" full_name="U.S. English">
 	<message key="plugins.themes.bootstrap3.name">Bootstrap 3 Base Theme</message>
+	<message key="plugins.themes.bootstrap3.options.bootstrapTheme.iupui">IUPUI Theme</message>
 	<message key="plugins.themes.bootstrap3.description">A starter Bootstrap 3 theme for the reader frontend.</message>
 	<message key="plugins.themes.bootstrap3.accessible_menu.label">Quick jump to page content</message>
 	<message key="plugins.themes.bootstrap3.accessible_menu.main_navigation">Main Navigation</message>

@@ -28,6 +28,7 @@ class BootstrapThreeThemePlugin extends ThemePlugin {
 			'description' => 'plugins.themes.bootstrap3.options.bootstrapTheme.description',
 			'options' => array(
 				'bootstrap3' => 'plugins.themes.bootstrap3.options.bootstrapTheme.bootstrap3',
+				'iupui'			 => 'plugins.themes.bootstrap3.options.bootstrapTheme.iupui',
 				'cerulean'   => 'plugins.themes.bootstrap3.options.bootstrapTheme.cerulean',
 				'cleanblog'  => 'plugins.themes.bootstrap3.options.bootstrapTheme.cleanblog',
 				'cosmo'      => 'plugins.themes.bootstrap3.options.bootstrapTheme.cosmo',
